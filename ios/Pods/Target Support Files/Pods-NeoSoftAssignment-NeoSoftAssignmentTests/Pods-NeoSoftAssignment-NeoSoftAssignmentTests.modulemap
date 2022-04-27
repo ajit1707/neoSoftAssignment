@@ -1,0 +1,6 @@
+module Pods_NeoSoftAssignment_NeoSoftAssignmentTests {
+  umbrella header "Pods-NeoSoftAssignment-NeoSoftAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

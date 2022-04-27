@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NeoSoftAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/NeoSoftAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NeoSoftAssignment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NeoSoftAssignment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1732112492/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1732112492/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
